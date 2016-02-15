@@ -3,6 +3,8 @@
 - title: About
   url: /about/
 
-- title: All Posts
+- title: Sample Posts
   url: /posts/
 
+- title: Theme Setup
+  url: /theme-setup/
